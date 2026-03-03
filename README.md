@@ -1,1 +1,1 @@
-# QC_MIMI_Project
+# QC_MINI_Project
